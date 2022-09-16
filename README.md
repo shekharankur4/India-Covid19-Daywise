@@ -6,4 +6,5 @@ Here's what we can tell by looking at the dataframe:
 • Data is provided for 959 days: from Jan 30, 2020 to Sept 15, 2022
 
 Keep in mind that these are officially reported numbers. The actual number of cases & deaths may be higher, as not all cases are diagnosed.
-
+##Jupyter Notebook Link - https://jovian.ai/shekharankur4/python-pandas-covid-india-data-analysis
+Run it on Binder to see the analysis
